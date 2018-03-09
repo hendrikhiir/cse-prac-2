@@ -30,3 +30,4 @@ file:.git/config	remote.origin.url=C:/Users/Hendrik/newDirectory
 file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 file:.git/config	branch.master.remote=origin
 file:.git/config	branch.master.merge=refs/heads/master
+_pycache__/ contains the bytecode of the compiled python program
