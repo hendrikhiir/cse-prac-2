@@ -15,7 +15,6 @@ file:"C:\\Program Files\\Git\\mingw64/etc/gitconfig"	filter.lfs.smudge=git-lfs s
 file:"C:\\Program Files\\Git\\mingw64/etc/gitconfig"	filter.lfs.required=true
 file:"C:\\Program Files\\Git\\mingw64/etc/gitconfig"	filter.lfs.process=git-lfs filter-process
 file:"C:\\Program Files\\Git\\mingw64/etc/gitconfig"	credential.helper=manager
-file:C:/Users/Hendrik/.gitconfig	user.name=hendrikhiir
 file:C:/Users/Hendrik/.gitconfig	user.email=hennu97@gmail.com
 file:C:/Users/Hendrik/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
 file:C:/Users/Hendrik/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
